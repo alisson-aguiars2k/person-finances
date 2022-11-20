@@ -5,7 +5,7 @@
 
 ![](./src/assets/images/financial-control.jpg)
 
-### [Person Finances](https://react-js-comfy-sloth.netlify.app/) 🔗
+### [Person Finances](https://react-js-person-finances.netlify.app/) 🔗
 
 ## Tecnologias que utilizei para o projeto ;  
 <div style="display: inline_block"><br>
