@@ -1,4 +1,4 @@
-## Person Finances ! 🤑
+# Person Finances ! 🤑
 <br>
 
 ## Controle seus gastos. 😃 
@@ -27,6 +27,7 @@
 - Hooks ; useState, useEffect, useReducer e useContext ;
 - Theme Switcher
 - As rotas foram criadas com React Router Dom 6.
+- Resposivo
 ## A estilização ; 
 - Styled Components; 
 ## Dependencias ; 
