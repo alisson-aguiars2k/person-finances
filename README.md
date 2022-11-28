@@ -1,11 +1,14 @@
-## Person Finances ! 🤑
+# Person Finances ! 🤑
 <br>
 
 ## Controle seus gastos. 😃 
 
-![](./src/assets/images/financial-control.jpg)
+### [Person Finances](https://react-js-person-finances.netlify.app/) 🔗
 
-### [Person Finances](https://react-js-comfy-sloth.netlify.app/) 🔗
+![](./src/assets/images/financial-control.jpg)
+![](./src/assets/images/financial-control4.jpg)
+![](./src/assets/images/financial-control2.jpg)
+![](./src/assets/images/financial-control3.jpg)
 
 ## Tecnologias que utilizei para o projeto ;  
 <div style="display: inline_block"><br>
@@ -27,6 +30,7 @@
 - Hooks ; useState, useEffect, useReducer e useContext ;
 - Theme Switcher
 - As rotas foram criadas com React Router Dom 6.
+- Resposivo
 ## A estilização ; 
 - Styled Components; 
 ## Dependencias ; 
